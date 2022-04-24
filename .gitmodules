@@ -1,0 +1,6 @@
+[submodule "themes/neo-gokarna"]
+	path = themes/neo-gokarna
+	url = https://github.com/elijahdanko/neo-gokarna
+[submodule "static/cv"]
+	path = static/cv
+	url = https://github.com/elijahdanko/cv
