@@ -8,7 +8,7 @@ As an Open Source consumer, occasionally, I contribute back. Here is a list of O
 1. [VIM interface for LF file manager](https://github.com/elijahdanko/lf.vim)
 2. [TTYMUX: Tmux ⇆ Emacs switcher](https://github.com/elijahdanko/ttymux.el)
 3. [FZF notes](https://github.com/elijahdanko/fzf-notes)
-4. [Linux Mate: desktop application skip list feature](https://github.com/mate-desktop/marco/commit/238373d)
+4. [Linux Mate: skip applications list feature](https://github.com/mate-desktop/marco/commit/238373d)
 5.  [Linux Mate: toggle window border feature](https://github.com/mate-desktop/marco/commit/9a4b1e0)
 
 Dotfiles:
