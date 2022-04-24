@@ -17,6 +17,6 @@ clean:
 sync:
 	git submodule init
 	git submodule update
-	git submodule foreach git pull
+	git submodule foreach git pull origin master
 
 .PHONY: all develop server build install clean sync
