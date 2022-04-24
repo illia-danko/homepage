@@ -1,3 +1,5 @@
-Personal [homepage](https://elijahadanko.net).
+Homepage
 
-Powered by [Hugo](https://github.com/gohugoio/hugo) and [Neo Gokarna](https://github.com/elijahdanko/neo-gokarna) theme.
+# About
+
+Static [website](https://elijahdanko.net) powered by [Hugo](https://github.com/gohugoio/hugo) and [Neo Gokarna](https://github.com/elijahdanko/neo-gokarna) theme.
