@@ -1,0 +1,18 @@
+---
+title: "Projects"
+type: page
+---
+
+As an Open Source consumer, occasionally, I contribute back. Here is a list of Open Source contributions and personal projects:
+
+1. [[https://github.com/elijahdanko/lf.vim][VIM interface for LF file manager]]
+2. [[https://github.com/elijahdanko/ttymux.el][TTYMUX: Tmux ⇆ Emacs switcher]]
+3. [[https://github.com/elijahdanko/fzf-notes][FZF notes]]
+4. [[https://github.com/mate-desktop/marco/commit/238373d][Linux Mate: skip applications list feature]]
+5. [[https://github.com/mate-desktop/marco/commit/9a4b1e0][Linux Mate: toggle window border feature]]
+
+Dotfiles:
+
+1. [[https://github.com/elijahdanko/dotfiles][My dotfiles]]
+2. [[https://github.com/elijahdanko/dot-emacs][Emacs dotfiles]]
+3. [[https://github.com/elijahdanko/dot-nvim][Neovim lua dotfiles]]
