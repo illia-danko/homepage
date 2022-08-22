@@ -14,5 +14,4 @@ As an Open Source consumer, occasionally, I contribute back. Here is a list of O
 Dotfiles:
 
 1. [[https://github.com/elijahdanko/dotfiles][My dotfiles]]
-2. [[https://github.com/elijahdanko/dot-emacs][Emacs dotfiles]]
-3. [[https://github.com/elijahdanko/dot-nvim][Neovim lua dotfiles]]
+2. [[https://github.com/elijahdanko/dot-nvim][Neovim lua dotfiles]]
