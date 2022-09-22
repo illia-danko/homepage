@@ -55,8 +55,8 @@ pygmentsStyle = "monokai"
     url = "https://github.com/elijahdanko"
     weight = 5
 
-  [[menu.main]]
-    identifier = "rss"
-    pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
-    weight = 6
+  # [[menu.main]]
+  #   identifier = "rss"
+  #   pre = "<span data-feather='rss'></span>"
+  #   url = "/index.xml"
+  #   weight = 6
