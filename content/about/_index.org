@@ -5,7 +5,7 @@ type: page
 
 Elijah Danko is a passionate software engineer, beloved husband, and father of
 three kids. He started his career as a system developer around nine years ago,
-and gradually has been moving towards Web and now positioning himself as a full
+and gradually has been moving towards Web, and now positioning himself as a full
 stack engineer. He has solid experience at big tech companies such as
 [[https://www.cisco.com/][Cisco]], as well as at startups, such as
 [[https://www.omnisend.com/][Omnisend]] and [[https://aigent.ai/][Aigent]].
