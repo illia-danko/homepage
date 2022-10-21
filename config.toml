@@ -1,5 +1,5 @@
 baseURL = "https://elijahdanko.net"
-title = "Elijah Danko"
+title = "Illia Danko"
 theme = "neo-gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ googleAnalytics = "G-T1WFJCYQ3B"
 pygmentsStyle = "monokai"
 
 [params]
-  footer = "Elijah Danko"
+  footer = "Illia Danko"
   description = "Computer Scientist Enthusiast"
   avatarURL = "/images/main_personal.png"
   avatarSize = "size-m"
@@ -23,7 +23,7 @@ pygmentsStyle = "monokai"
         onload="renderMathInElement(document.body);"></script>
   """
   socialIcons = [
-    {name = "linkedin", url = "https://www.linkedin.com/in/elijah-danko-608486bb/"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/illia-danko-608486bb/"},
     {name = "gmail", url = "mailto:me@elijahdanko.net"},
   ]
   metaKeywords = ["neovim", "emacs", "resume", "open source" ]
@@ -52,7 +52,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/elijahdanko"
+    url = "https://github.com/illia-danko"
     weight = 5
 
   # [[menu.main]]
