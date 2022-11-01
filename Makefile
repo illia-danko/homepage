@@ -9,7 +9,7 @@ build:
 	hugo -D
 
 install:
-	rsync -vrP --delete-after public/ root@elijahdanko.net:/var/www/elijahdanko
+	rsync -vrP --delete-after public/ root@danko.ws:/var/www/danko
 
 clean:
 	rm -rf ./public
