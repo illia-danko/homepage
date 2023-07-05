@@ -3,7 +3,7 @@ title: "About me"
 type: page
 ---
 
-Illia Danko is a passionate software engineer, beloved husband, and father of
+Illia Danko is a passionate software engineer, beloved husband, and a father of
 three kids. He started his career as a system developer around nine years ago,
 and gradually has been moving towards Web, and now positioning himself as a full
 stack engineer. He has solid experience at big tech companies such as
@@ -12,4 +12,4 @@ stack engineer. He has solid experience at big tech companies such as
 
 He is always looking at optimizing workflow and developing helping tools. As a
 Free Software consumer, he occasionally contributes further back to Open Source.
-He reads novels and tech books and tries new stuff in his spare time.
+He reads tech books and articles, and build new stuff in his spare time.
